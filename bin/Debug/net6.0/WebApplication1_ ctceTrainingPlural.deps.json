@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApplication1_ ctceTrainingPlural/1.0.0": {
+        "runtime": {
+          "WebApplication1_ ctceTrainingPlural.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplication1_ ctceTrainingPlural/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

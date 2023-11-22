@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVXGQgbry50OYpEmGioJI1AGE1lhi+M4ziAR+K9P0N/jnhnvFVBF5oPfncR7fehHvlbuFwXBjgnM4t5L6cIhow==",
+  "success": true,
+  "projectFilePath": "D:\\pers_projects\\Dotnet\\WebApplication1_ ctceTrainingPlural\\WebApplication1_ ctceTrainingPlural.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nugetserver.deventure.co/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
