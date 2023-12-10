@@ -18,7 +18,6 @@ namespace WebApplication1__ctceTrainingPlural.Controllers
         // GET: /<controller>/
         public IActionResult List()
         {
-            //ViewBag.CurrentCategory = "Cheese cakes";
             PiesListViewModel piesListViewModel = new PiesListViewModel();
 			piesListViewModel.Pies = _pieRepository.AllPies;
 			piesListViewModel.CurrentCategory = "Cheese cakes";

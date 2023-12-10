@@ -21,7 +21,7 @@ namespace WebApplication1__ctceTrainingPlural
                 app.UseDeveloperExceptionPage();
             }
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
+            app.UseStaticFiles(); 
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
